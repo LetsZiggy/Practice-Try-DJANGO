@@ -1,0 +1,6 @@
+Django~=2.2
+pylint~=2.4
+pylint-django~=2.0
+pylint-quotes~=0.2
+python-decouple~=3.3
+yapf~=0.29
